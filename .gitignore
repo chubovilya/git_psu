@@ -6,6 +6,12 @@ build/
 
 # External native build folder generated in Android Studio 2.2 and later
 .externalNativeBuild
+*.apk
+*.ap_
+*.aab
+
+# Local configuration file (sdk path, etc)
+local.properties
 
 # Gradle files
 .gradle/
@@ -38,3 +44,18 @@ google-services.json
 
 # Version control
 vcs.xml
+
+gitignore_for_hometask_1.txt
+gitignore_for_hometask_1.txt. На экране.
+# Version control
+vcs.xml
+
+# lint
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+lint/reports/
+
+gitignore_for_conflict.txt
+gitignore_for_conflict.txt. На экране.
